@@ -1,1 +1,1 @@
-# Instagram Bot using python selenum library
+# Instagram Bot using python selenium library
